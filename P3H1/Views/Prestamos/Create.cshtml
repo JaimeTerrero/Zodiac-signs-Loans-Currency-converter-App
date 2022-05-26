@@ -1,0 +1,70 @@
+﻿@model LoansApplication.ViewModel.PrestamosCreateViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="text-center text-uppercase text-primary">Calculadora de Préstamos Personales</h1>
+
+<div class="row">
+    <div class="col-md-6 offset-3">
+        <div class="card">
+            <div class="card-header bg-dark text-white">
+                <h5 class="text-center text-uppercase text-opacity-100">Completa los campos requeridos para visualizar las cuotas a pagar</h5>
+            </div>
+            <div class="card-body">
+                <form method="post" asp-controller="Prestamos" asp-action="Create">
+                    <div class="mb-3">
+                        <label asp-for="MontoPrestamo">Monto del préstamo:</label>
+                        <input type="number" step="any" class="w-50 rounded" asp-for="MontoPrestamo"/>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="TipoPrestamo">Tipo de Préstamo</label>
+                        <select class="form-select w-75" required asp-for="TipoPrestamo" id="TipoPrestamo">
+                            <option selected>Seleccionar</option>
+                            <option value="1">Personal</option>
+                            <option value="2">Automóvil</option>
+                            <option value="3">Hipotecario</option>
+                        </select>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label asp-for="CuotasMensuales">Cantidad de cuotas mensuales:</label>
+                        <select class="form-select w-75" required asp-for="CuotasMensuales">
+                          <option selected>Seleccionar</option>
+                          <option value="1">12</option>
+                          <option value="2">18</option>
+                          <option value="3">24</option>
+                          <option value="4">30</option>
+                          <option value="5">36</option>
+                          <option value="6">42</option>
+                          <option value="7">48</option>
+                          <option value="8">54</option>
+                          <option value="9">60</option>
+                          <option value="10">66</option>
+                          <option value="11">72</option>
+                          <option value="12">78</option>
+                          <option value="13">84</option>
+                          <option value="14">90</option>
+                          <option value="15">96</option>
+                          <option value="16">102</option>
+                          <option value="17">108</option>
+                          <option value="18">114</option>
+                          <option value="19">120</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="text-black mb-1" asp-for="TasaInteresAnual">Tasa de interés anual (%):</label>
+                        <input type="number" asp-for="TasaInteresAnual" id="TasaInteres" step="any" class="rounded w-50" min="0" disabled/>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100 rounded">Guardar</button>
+                    
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="./js/site.js"></script>

@@ -1,0 +1,12 @@
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\bin\Debug\net5.0\ConversorApplication.deps.json
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\bin\Debug\net5.0\ConversorApplication.dll
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\bin\Debug\net5.0\ConversorApplication.pdb
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\obj\Debug\net5.0\ConversorApplication.csproj.AssemblyReference.cache
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\obj\Debug\net5.0\ConversorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\obj\Debug\net5.0\ConversorApplication.AssemblyInfoInputs.cache
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\obj\Debug\net5.0\ConversorApplication.AssemblyInfo.cs
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\obj\Debug\net5.0\ConversorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\obj\Debug\net5.0\ConversorApplication.dll
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\obj\Debug\net5.0\refint\ConversorApplication.dll
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\obj\Debug\net5.0\ConversorApplication.pdb
+C:\Users\Jaime David Terrero\source\repos\P3H1\ConversorApplication\obj\Debug\net5.0\ref\ConversorApplication.dll

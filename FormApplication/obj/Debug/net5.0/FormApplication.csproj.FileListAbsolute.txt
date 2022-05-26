@@ -1,0 +1,12 @@
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\bin\Debug\net5.0\FormApplication.deps.json
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\bin\Debug\net5.0\FormApplication.dll
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\bin\Debug\net5.0\FormApplication.pdb
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\obj\Debug\net5.0\FormApplication.csproj.AssemblyReference.cache
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\obj\Debug\net5.0\FormApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\obj\Debug\net5.0\FormApplication.AssemblyInfoInputs.cache
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\obj\Debug\net5.0\FormApplication.AssemblyInfo.cs
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\obj\Debug\net5.0\FormApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\obj\Debug\net5.0\FormApplication.dll
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\obj\Debug\net5.0\refint\FormApplication.dll
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\obj\Debug\net5.0\FormApplication.pdb
+C:\Users\Jaime David Terrero\source\repos\P3H1\FormApplication\obj\Debug\net5.0\ref\FormApplication.dll

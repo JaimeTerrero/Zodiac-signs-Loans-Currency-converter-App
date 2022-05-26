@@ -1,0 +1,26 @@
+﻿
+@model FormApplication.ViewModel.SignoCreateViewModel
+@{
+    ViewData["Title"] = "Signo";
+}
+
+<h1 class="text-center text-uppercase">Formulario</h1>
+
+<div class="row">
+    <div class="col-md-6 offset-1">
+        <div class="card">
+            <div class="card-header bg-dark text-white">
+                <h3 class="text-center">Proporcione sus datos</h3>
+            </div>
+            <div class="card-body">
+                <form method="post" asp-controller="Formulario" asp-action="Signo">
+                    <div class="mb-3">
+                        <label class="text-dark d-block form-label" asp-for="Fecha">Introduzca su fecha de nacimiento</label>
+                        <input type="date" required asp-for="Fecha"/>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

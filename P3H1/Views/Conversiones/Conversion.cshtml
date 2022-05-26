@@ -1,0 +1,47 @@
+﻿@model ConversorApplication.ViewModel.ConvertorCreateViewModel
+@{
+    ViewData["Title"] = "Conversion";
+}
+
+<h1 class="text-center text-uppercase">Conversión</h1>
+
+<div class="row">
+    <div class="col-md-6 offset-3">
+        <div class="card">
+            <div class="card-header bg-dark text-white">
+                <h3 class="text-center">Conversión de Monedas</h3>
+            </div>
+            <div class="card-body">
+                <form method="post" asp-controller="Conversiones" asp-action="Conversion">
+                    <div class="mb-3">
+                        <label asp-for="ConvertorType">De:</label>
+                        <select class="form-select w-75" required asp-for="ConvertorType">
+                          <option selected>Seleccionar</option>
+                          <option value="1">Peso</option>
+                          <option value="2">Dólar</option>
+                          <option value="3">Euro</option>
+                        </select>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label asp-for="ConvertorType2">A:</label>
+                        <select class="form-select w-75" required asp-for="ConvertorType2">
+                          <option selected>Seleccionar</option>
+                          <option value="1">Peso</option>
+                          <option value="2">Dólar</option>
+                          <option value="3">Euro</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Amount" class="text-black d-block mb-1">Introduzca la cantidad</label>
+                        <input type="number" asp-for="Amount" step="any" class="rounded" min="0" required/>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100">Convertir</button>
+                    
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
