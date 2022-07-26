@@ -1,14 +1,18 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿const TipoPrestamo = document.querySelector("#TipoPrestamo");
+const TasaInteres = document.querySelector("#TasaInteres");
 
-// Write your JavaScript code.
+document.addEventListener('DOMContentLoaded', () => {
+    TipoPrestamo.addEventListener('click', showPercentageInput);
+});
 
-const TipoPrestamoSelect = document.querySelector("#TipoPrestamo"); 
-const TasaInteresInput = document.querySelector("#TasaInteres");
+function showPercentageInput(e) {
+    e.preventDefault();
 
-
-if (TipoPrestamoSelect.value === 1) {
-    TasaInteresInput.textContent = "20%";
-
-    return;
+    if (TipoPrestamo.value == "1") {
+        TasaInteres.value = '22%';
+    } else if (TipoPrestamo.value == "2") {
+        TasaInteres.value = '12%'
+    } else if (TipoPrestamo.value == "3") {
+        TasaInteres.value = '8%'
+    }
 }

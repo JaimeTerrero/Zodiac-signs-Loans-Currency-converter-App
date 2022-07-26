@@ -10,3 +10,15 @@ C:\Users\Jaime David Terrero\source\repos\P3H1\LoansApplication\obj\Debug\net5.0
 C:\Users\Jaime David Terrero\source\repos\P3H1\LoansApplication\obj\Debug\net5.0\refint\LoansApplication.dll
 C:\Users\Jaime David Terrero\source\repos\P3H1\LoansApplication\obj\Debug\net5.0\LoansApplication.pdb
 C:\Users\Jaime David Terrero\source\repos\P3H1\LoansApplication\obj\Debug\net5.0\ref\LoansApplication.dll
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\bin\Debug\net5.0\LoansApplication.deps.json
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\bin\Debug\net5.0\LoansApplication.dll
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\bin\Debug\net5.0\LoansApplication.pdb
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\obj\Debug\net5.0\LoansApplication.csproj.AssemblyReference.cache
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\obj\Debug\net5.0\LoansApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\obj\Debug\net5.0\LoansApplication.AssemblyInfoInputs.cache
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\obj\Debug\net5.0\LoansApplication.AssemblyInfo.cs
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\obj\Debug\net5.0\LoansApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\obj\Debug\net5.0\LoansApplication.dll
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\obj\Debug\net5.0\refint\LoansApplication.dll
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\obj\Debug\net5.0\LoansApplication.pdb
+C:\Users\Jaime David Terrero\OneDrive\Documentos\GitHub\P3-FirstHomework\LoansApplication\obj\Debug\net5.0\ref\LoansApplication.dll

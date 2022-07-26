@@ -6386,11 +6386,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jaime David Terrero\\source\\repos\\P3H1\\P3H1\\P3H1.csproj",
+      "projectUniqueName": "C:\\Users\\Jaime David Terrero\\OneDrive\\Documentos\\GitHub\\P3-FirstHomework\\P3H1\\P3H1.csproj",
       "projectName": "P3H1",
-      "projectPath": "C:\\Users\\Jaime David Terrero\\source\\repos\\P3H1\\P3H1\\P3H1.csproj",
+      "projectPath": "C:\\Users\\Jaime David Terrero\\OneDrive\\Documentos\\GitHub\\P3-FirstHomework\\P3H1\\P3H1.csproj",
       "packagesPath": "C:\\Users\\Jaime David Terrero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jaime David Terrero\\source\\repos\\P3H1\\P3H1\\obj\\",
+      "outputPath": "C:\\Users\\Jaime David Terrero\\OneDrive\\Documentos\\GitHub\\P3-FirstHomework\\P3H1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6411,14 +6411,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Jaime David Terrero\\source\\repos\\P3H1\\ConversorApplication\\ConversorApplication.csproj": {
-              "projectPath": "C:\\Users\\Jaime David Terrero\\source\\repos\\P3H1\\ConversorApplication\\ConversorApplication.csproj"
+            "C:\\Users\\Jaime David Terrero\\OneDrive\\Documentos\\GitHub\\P3-FirstHomework\\ConversorApplication\\ConversorApplication.csproj": {
+              "projectPath": "C:\\Users\\Jaime David Terrero\\OneDrive\\Documentos\\GitHub\\P3-FirstHomework\\ConversorApplication\\ConversorApplication.csproj"
             },
-            "C:\\Users\\Jaime David Terrero\\source\\repos\\P3H1\\FormApplication\\FormApplication.csproj": {
-              "projectPath": "C:\\Users\\Jaime David Terrero\\source\\repos\\P3H1\\FormApplication\\FormApplication.csproj"
+            "C:\\Users\\Jaime David Terrero\\OneDrive\\Documentos\\GitHub\\P3-FirstHomework\\FormApplication\\FormApplication.csproj": {
+              "projectPath": "C:\\Users\\Jaime David Terrero\\OneDrive\\Documentos\\GitHub\\P3-FirstHomework\\FormApplication\\FormApplication.csproj"
             },
-            "C:\\Users\\Jaime David Terrero\\source\\repos\\P3H1\\LoansApplication\\LoansApplication.csproj": {
-              "projectPath": "C:\\Users\\Jaime David Terrero\\source\\repos\\P3H1\\LoansApplication\\LoansApplication.csproj"
+            "C:\\Users\\Jaime David Terrero\\OneDrive\\Documentos\\GitHub\\P3-FirstHomework\\LoansApplication\\LoansApplication.csproj": {
+              "projectPath": "C:\\Users\\Jaime David Terrero\\OneDrive\\Documentos\\GitHub\\P3-FirstHomework\\LoansApplication\\LoansApplication.csproj"
             }
           }
         }
@@ -6460,7 +6460,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
