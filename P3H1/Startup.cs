@@ -50,7 +50,7 @@ namespace P3H1
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Formulario}/{action=Index}/{id?}");
+                    pattern: "{controller=Formulario}/{action=Signo}/{id?}");
             });
         }
     }
